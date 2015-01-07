@@ -8,7 +8,7 @@ Uses [execnet](http://codespeak.net/execnet/) to connect to remote hosts.
 ## Installation
 
 ```
-git clone https://github.com/hodgestar/fishnet.git``
+git clone https://github.com/hodgestar/fishnet.git
 pip install -e ./fishnet
 ```
 
